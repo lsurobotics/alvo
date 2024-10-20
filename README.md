@@ -9,10 +9,10 @@ The organization and authors of this repository are not liable for any consequen
 
 
 If you are here because you want to learn more about our first experiment with Amazon Turk individuals, please take a look at
-the [first-experiment](https://github.com/vcuse/alvo/tree/main/first-experiment) folder.
+the [first-experiment](https://github.com/lsurobotics/alvo/tree/main/first-experiment) folder.
 
 If you wanna see how we implemented a pratical example of our prototype using a mobile robot manipulator, please take a look at the
-[application](https://github.com/vcuse/alvo/tree/main/application) folder.
+[application](https://github.com/lsurobotics/alvo/tree/main/prototype) folder.
 
 > Try our experiment online by accessing the following website:
 > https://vcuse.github.io/alvo/first-experiment/
