@@ -15,7 +15,7 @@ If you wanna see how we implemented a pratical example of our prototype using a 
 [application](https://github.com/lsurobotics/alvo/tree/main/prototype) folder.
 
 > Try our experiment online by accessing the following website:
-> https://vcuse.github.io/alvo/first-experiment/
+> https://lsurobotics.github.io/alvo/first-experiment/
 
 
 Questions?
